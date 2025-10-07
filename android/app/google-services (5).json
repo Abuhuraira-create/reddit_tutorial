@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "356311657345",
+    "project_id": "reddit-clone-tutorial-357f6",
+    "storage_bucket": "reddit-clone-tutorial-357f6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356311657345:android:427778a8c178ee0d07d680",
+        "android_client_info": {
+          "package_name": "com.example.reddit_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtm5RCE_9k-36crpKHm0veT1BCeoiEng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
